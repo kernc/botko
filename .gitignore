@@ -1,1 +1,6 @@
 src/error_log
+*.pyc
+*.pyo
+__pycache__/*
+*.log
+
